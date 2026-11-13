@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+plotly
+# facultatif, pour le modèle d'apprentissage profond du tableau de bord :
+# tensorflow
